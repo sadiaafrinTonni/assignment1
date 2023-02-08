@@ -1,0 +1,431 @@
+*{
+	padding: 0px;
+	margin: 0px;
+
+}
+body{
+	font-size: 14px;
+	line-height: 24px;
+	font-family: 'Public Sans', sans-serif;
+
+
+}
+h1, h2, h3, h4, h5, h6{
+font-family: 'Epilogue', sans-serif;
+}
+img{
+	width: 100%;
+	height: auto;
+
+}
+a{
+	text-decoration: none;
+
+}
+a:hove{
+	text-decoration: none;
+
+}
+.header{
+	width: 100%;
+	background:url("../image/bg1.png") ;
+	background-position: center top;
+	background-repeat: no-repeat;
+	background-size: cover;
+	padding: 50px 0px 0px 0px;
+
+
+
+}
+.menu{
+	width: 100%;
+
+}
+.menu img{
+	width: 100%;
+	margin: 5px 0px 0px 0px;
+	
+}
+.menu .navbar-nav .nav-item .nav-link{
+	font-size: 14px;
+	line-height: 24px;
+	font-weight: 700;
+	letter-spacing: 2px;
+	color: #fff;
+	margin: 0px 0px 0px 30px;
+
+}
+.menu .navbar-nav .nav-item .nav-link:hover{
+	color: #bf2222;
+
+}
+.menu .navbar-nav .nav-item .nav-link:focus{
+color: #bf2222;
+
+}
+.banner{
+	width: 100%;
+	padding: 40px 0px;
+
+}
+.banner .img-fluid {
+    max-width: 100%;
+    height: auto;
+    margin: 70px 50px 0px 0px;
+}
+.banner h1{
+	font-size: 80px;
+	line-height: 90px;
+	font-weight: 900;
+	color: #fff;
+	margin: 70px 0px 0px 0px;
+
+}
+.banner p{
+	font-size: 16px;
+	line-height: 26px;
+	font-weight: 400;
+	color: #fff;
+	margin: 20px 0px 0px 0px;
+}
+.banner h6{
+	font-size: 18px;
+	line-height: 28px;
+	font-weight: 400;
+	color: #fff;
+	margin: 40px 0px 0px 0px;
+	    text-align: right;
+}
+.banner h6 span{
+	color: #red;
+
+
+}
+.cake{
+width: 100%;
+padding: 80px 0px;
+
+}
+.cake h4{
+font-size: 26px;
+font-weight: 600;
+line-height: 1.2em;
+color: #008ed6;
+text-transform: uppercase;
+letter-spacing: 1px;
+padding: 200px 0px 0px 0px;
+
+}
+.cake h1{
+font-size: 62px;
+font-weight: 600;
+line-height: 1.2em;
+color: #000;
+letter-spacing: 1px;
+padding: 10px 0px 0px 0px;
+
+
+}
+.cake p{
+font-size: 16px;
+font-weight: 400;
+line-height: 1.7em;
+color: #999999;
+margin: 0px 0px 15px;
+
+}
+.cake .double-btn{
+width: 100%;
+padding: 40px 0px 0px;
+
+}
+.cake .double-btn .btn-primary{
+padding: 20px 30px;
+margin: 0px 15px 0px 0px;
+
+border-radius: 3px;
+font-size: 14px;
+font-weight: 600;
+text-transform: uppercase;letter-spacing: 1px;
+color: #000;
+background: #008ed6;
+border: 1px solid #008ed6;
+transition: 1s;
+
+
+
+}
+.cake .double-btn .btn-primary:hover{
+color: #ffae00;
+background: transparent;
+border: 1px solid #008ed6;
+
+}
+.cake .double-btn .btn-primary:focus{
+color: #ffae00;
+background: transparent;
+border: 1px solid #008ed6;
+}
+.cake .double-btn .btn-info{
+padding: 20px 30px;
+border-radius: 3px;
+font-size: 14px;
+font-weight: 600;
+text-transform: uppercase;letter-spacing: 1px;
+color: #000;
+background: #ffae00;
+border: 1px solid #999;
+transition: 1s;
+
+}
+.cake .double-btn .btn-info:hover{
+color: #ffae00;
+background: #008ed6;
+border: 1px solid #008ed6;
+}
+.cake .double-btn .btn-info:focus{
+	color: #000;
+background: #008ed6;
+border: 1px solid #008ed6;
+}
+.cake img{
+	width: 100%;
+	padding:0px 0px 150px 0px;
+	border: 1px solid #fff;
+	border-radius: 45px;
+
+}
+.course{
+	width: 100%;
+	padding: 20px 0px;
+
+}
+.course h1{
+		text-align: center;
+		font-size: 54px;
+	font-weight:700 ;
+	line-height: 64px;
+	color:#000;
+	margin: 0px 0px 15px;
+}
+.course .card .card-body .icons{
+width: 15px;
+height: 13px;
+margin: 0px 0px 0px 5px;
+
+
+}
+.course .card {
+	width: 100%;
+	padding: 20px;
+	background: #fff;
+	box-shadow: 0px 10px 40px rgba(0, 0, 0, 0.1);
+	border-radius: 18px;
+	border: 0px;
+
+
+}
+.course .card .card-body .icons-text{
+	font-size: 14px;
+	line-height: 24px;
+	color: #000;
+	margin: 0px;
+
+
+}
+.course .card .card-body .btn-success{
+	display: inline-block;
+	margin: 15px 0px 0px;
+
+
+	padding: 8px 25px;
+	border-radius: 25px;
+	font-size: 16px;
+	text-transform: capitalize;
+	color: #fff;
+	background: #21B573;
+	border: 1px solid #21B573;
+	transition: 1s;
+
+}
+.course .card .card-body .btn-success:hover{
+	color: #21b573;
+	background: transparent;
+	border: 1px solid #21b573;
+
+}
+.course .card .card-body .btn-success:focuse{
+	color: #21b573;
+	background: transparent;
+	border: 1px solid #21b573;
+}
+.course .card .card-body .card-title{
+font-size: 20px;
+line-height: 30px;
+font-weight: 600;
+color: #000;
+text-transform: capitalize;
+margin: 0px 0px 0px ;
+
+}
+.course .card .card-body .card-text{
+font-size: 14px;
+line-height: 24px;
+color: #000;
+
+}
+.contact{
+	width: 100%;
+	padding: 80px 0px 0px;
+	background:#ededed ;
+
+
+}
+.contact h1{
+	font-size: 44px;
+	line-height: 54px;
+	font-weight: 700;
+	text-transform: capitalize;
+	text-align: center;
+
+}
+.contact .title{
+	width: 100%;
+	text-align: center;
+	padding: 0px 0px 80px;
+
+}
+.contact .info{
+	width: 100%;
+	text-align: center;
+
+}
+.contact .info .fa{
+	font-size: 35px;
+	color: #fff;
+	margin:0px 0px 25px ;
+
+
+}
+.contact .info p{
+	font-size: 16px;
+	line-height: 1.7em;
+	color: #777;
+
+}
+.main-form{
+	width: 100%;
+	padding: 70px 80px;
+	margin: 60px 0px -70px;
+	background: #191919;
+	position: relative;
+	z-index: 1;
+
+
+}
+.main-form .form-control{
+	font-size: 16px;
+	color: #fff;
+	font-weight: 500;
+	padding: 15px ;
+	border: 1px solid #eee;
+	background: transparent;
+	border-radius: 5px;
+	text-color:#fff;
+
+
+}
+.form-control{
+	color: #fff;
+
+}
+.main-form .form-control:focus{
+	border: 1px solid #444348;
+	background: transparent;
+	box-shadow: 0 0 0 0.0rem rgb(13 110 253 / 25%);
+}
+.main-form .btn-primary{
+padding: 12px 25px;
+border-radius: 3px;
+font-size: 14px;
+font-weight: 600;
+text-transform: uppercase;
+color: #fff;
+background: #008ed6;
+border: 1px solid #008ed6;
+transition: 1s;
+}
+.main-form .btn-primary:hover{
+	color: #008ed6;
+	background: transparent;
+	border: 1px solid #008ed6;
+
+}
+
+.footer{
+	width: 100%;
+	background: #ffae00;
+
+
+
+}
+.copyright{
+	width: 100%;
+	padding: 50px 0px 0px;
+	color: #fff;
+	t
+
+
+}
+.copyright .social-icons{
+	width: 100%;
+	padding: 0px;
+	margin: 0px;
+	text-align: center;
+
+
+}
+.copyright .social-icons li{
+	list-style: none;
+	display: inline-block;
+
+
+}
+.copyright .social-icons li a{
+	display: block;
+	margin:10px 0px 0px 20px ;
+    
+
+
+}
+.copyright .social-icons li a i{
+	color: #fff;
+	font-size: 20px;
+	letter-spacing: 3px;
+	
+
+}
+.copyright .social-icons li a i:hover{
+	background: #de0a26;
+	border: 1px solid #eee;
+	background: transparent;
+}
+.copyright .social-icons li a i:focus{
+	background: #de0a26;
+	border: 1px solid #eee;
+	background: transparent;
+}
+.main-footer{
+	width: 100%;
+padding: 10px 0px 40px 0px;
+background: ;
+background-position: center;
+background-repeat: no-repeat;
+background-size: cover;
+
+}
+.copyright p{
+	text-align: center;
+	padding: 10px 0px 0px 0px;
+
+}
